@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GadmBgDAOAnhHRfzyCwwdwGJteE+hGvoo53lmBLvvsnU4z2tnASd3wHV54rLHtTdSevO7DTRKq8hIG0poI5R/A==",
+  "dgSpecHash": "7vdwa2m4/NV3ztTRZesiWVjp+uqtRnOJz1aSSY1116b3obkLnkBlgVhX8MKha7ypKnOWTKtGQkIuY4jEv2bD8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\5in1\\5in1.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\5-in-1\\5in1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",

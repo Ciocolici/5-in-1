@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\5-in-1\bin\Debug\net6.0\5in1.exe
+C:\Users\danie\Documents\GitHub\5-in-1\bin\Debug\net6.0\5in1.deps.json
+C:\Users\danie\Documents\GitHub\5-in-1\bin\Debug\net6.0\5in1.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\5-in-1\bin\Debug\net6.0\5in1.dll
+C:\Users\danie\Documents\GitHub\5-in-1\bin\Debug\net6.0\5in1.pdb
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\5in1.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\5in1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\5in1.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\5in1.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\5in1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\5in1.dll
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\refint\5in1.dll
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\5in1.pdb
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\5in1.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\5-in-1\obj\Debug\net6.0\ref\5in1.dll
