@@ -8,6 +8,8 @@ A C# (CSharp) Console App exercise-project, done during my classes for IT Specia
 - **Taschenrechner**: Just a basic calculator.
 - **Warm und Kälter**: A number guessing game.
 
+The code was written independently by me. The class only provided a general idea of what the project should do.
+
 *To run the Console App program directly, launch `5in1.exe` located in `bin/Debug/net6.0`.*
 
 *Note: German language used.*
