@@ -6,7 +6,7 @@ A C# (CSharp) Console App exercise-project, done during my classes for IT Specia
 - **Diamanten**: Create your own diamond.
 - **Fibonacci**: In the Fibonacci sequence each number is the sum of the two preceding ones.
 - **Taschenrechner**: Just a basic calculator.
-- **Warm und Kälter**: A number guessing game.
+- **Warm und Kälter**: A number guessing game. *(NOTE: A much better version for this one is available [here](https://github.com/Ciocolici/Warm-oder-Kalt). I have remade and improved it, including highscore implementation.)*
 
 The code was written independently by me. The class only provided a general idea of what the project should do.
 
